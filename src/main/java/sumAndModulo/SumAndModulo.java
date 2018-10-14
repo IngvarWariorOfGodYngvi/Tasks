@@ -1,9 +1,9 @@
-package zad2;
+package sumAndModulo;
 
 import java.util.Scanner;
 
-public class Zad2 {
-    static double N;
+public class SumAndModulo {
+    static int N;
 
     public static void main(String[] args) {
 
