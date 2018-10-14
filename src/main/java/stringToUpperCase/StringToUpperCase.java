@@ -1,8 +1,8 @@
-package zad7;
+package stringToUpperCase;
 
 import java.util.Scanner;
 
-public class Zad7 {
+public class StringToUpperCase {
 
     public static void main(String[] args) {
         stringToUpperCase();

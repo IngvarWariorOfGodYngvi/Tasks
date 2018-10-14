@@ -10,16 +10,12 @@ public class Averrage {
         System.out.println(averrage(arrDouble[0],arrDouble[1]));
 
 
-
-
     }
 
     public static double averrage(double a, double... b) {
         double countVar=a;
         for (double i : b){
             countVar += i;
-//            System.out.println(countVar);
-
         }
         double wynik = countVar / (b.length+1);
 
