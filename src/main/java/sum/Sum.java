@@ -23,7 +23,7 @@ public class Sum {
 
     }
 
-    static double sum(){
+    public static double sum(){
         return a+b;
     }
 }

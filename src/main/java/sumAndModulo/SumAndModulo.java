@@ -3,7 +3,6 @@ package sumAndModulo;
 import java.util.Scanner;
 
 public class SumAndModulo {
-    static int N;
 
     public static void main(String[] args) {
 
