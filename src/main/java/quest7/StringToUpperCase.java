@@ -1,4 +1,4 @@
-package stringToUpperCase;
+package quest7;
 
 import java.util.Scanner;
 

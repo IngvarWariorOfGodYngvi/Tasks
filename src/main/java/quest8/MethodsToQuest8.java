@@ -15,12 +15,12 @@ public class MethodsToQuest8 {
         sum();
         sumOfFirstFour();
         sumOfLastFive();
-        sumFirstHighestThanTen();
+        sumFirstHigherThanTen();
 
 
 
     }
-    private static void sumFirstHighestThanTen() {
+    private static void sumFirstHigherThanTen() {
         int args = arrInt.length;
         int counter=0;
         for (int i=0;i <args;i++){

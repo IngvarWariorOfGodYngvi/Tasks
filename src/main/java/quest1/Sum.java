@@ -1,4 +1,4 @@
-package sum;
+package quest1;
 
 import java.util.Scanner;
 

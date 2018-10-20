@@ -1,4 +1,4 @@
-package gnirst;
+package quest4;
 
 import java.util.Scanner;
 

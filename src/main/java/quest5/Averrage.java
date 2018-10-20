@@ -1,4 +1,4 @@
-package Averrage;
+package quest5;
 
 public class Averrage {
     public static void main(String[] args) {

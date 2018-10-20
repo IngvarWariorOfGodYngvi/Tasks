@@ -1,4 +1,4 @@
-package faktorial;
+package quest3;
 
 import java.util.Scanner;
 

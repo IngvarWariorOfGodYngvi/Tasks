@@ -23,11 +23,5 @@ public class Palindroms {
         }
         return stringOut;
     }
-/*        for (int i = 0; i <= 2; i++) {
-            long fibonacciEquals = fibonacciLong(fibonacciNumber);
-            i=0;
-            if (fibonacciEquals<0){i=2;}
-            fibonacciNumber++;
-            System.out.println(fibonacciEquals);
-        }*/
+
 }
